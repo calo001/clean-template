@@ -45,7 +45,7 @@ params:
   description: Mi tiendita
   preloader: true
   search: true
-  author: ''
+  author: " "
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
